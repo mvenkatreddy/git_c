@@ -1,2 +1,10 @@
 # git_c
-To Know about git
+The git commands 
+clone
+config
+init
+add
+pull
+push
+log
+diff
