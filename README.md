@@ -1,11 +1,14 @@
 # git_c
-The git commands 
+The git commands: 
+
 clone
 status
 config
+
 init
 add
 pull
+
 push
 log
 diff
